@@ -1,0 +1,1591 @@
+[
+  {
+    "category": "API & Eksipien",
+    "name": "Acarbose",
+    "origin": "CKD Bio",
+    "country": "Korea Selatan",
+    "usage": "Inhibitor alfa-Glukosidase"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Acetylcysteine",
+    "origin": "Shanxi Yanghe, Grand Hoyo",
+    "country": "China",
+    "usage": "Mukolitik"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Acyclovir",
+    "origin": "Zhejiang Charioteer",
+    "country": "China",
+    "usage": "Anti Virus"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Albendazole",
+    "origin": "Sequent",
+    "country": "India",
+    "usage": "Antihelmintik"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Albumin Ekstrak",
+    "origin": "Aruna Industri",
+    "country": "Indonesia",
+    "usage": "Hipoalbuminemia"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Allopurinol",
+    "origin": "Exemed, Supriya",
+    "country": "India",
+    "usage": "Antipirai"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Almond Oil",
+    "origin": "Henry Lamotte",
+    "country": "Germany",
+    "usage": "Excipient"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Alumunium Hydroxide Heavy",
+    "origin": "Krish Chemicals",
+    "country": "India",
+    "usage": "Antacid"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Alumunium Hydroxide Heavy",
+    "origin": "Krish Chemicals",
+    "country": "India",
+    "usage": "Antacid"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Ambroxol HCl",
+    "origin": "Anuh, Kores, Ven Petrochem",
+    "country": "India",
+    "usage": "Mukolitik"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Amitryptiline",
+    "origin": "R.L Fine Chem",
+    "country": "India",
+    "usage": "Antidepresan trisiklik"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Ammonium Chloride",
+    "origin": "Rasino Herbs",
+    "country": "India",
+    "usage": "Ekspektoran"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Ascorbic Acid DC 97%",
+    "origin": "CSPC Weisheng",
+    "country": "China",
+    "usage": "Vitamin C"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Ascorbic Acid Uncoated",
+    "origin": "CSPC Weisheng",
+    "country": "China",
+    "usage": "Vitamin C"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Azithromycin dihydrate",
+    "origin": "Zhejiang Guobang",
+    "country": "China",
+    "usage": "Antibiotik makrolid"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Betamethasone Dipropionate",
+    "origin": "Anuh Farma",
+    "country": "India",
+    "usage": "Kortikosteroid"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Calcium Lactate",
+    "origin": "Wuhan Sanjiang",
+    "country": "China",
+    "usage": "Calcium defisiensi"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Captopril",
+    "origin": "Zhejiang Huahai",
+    "country": "China",
+    "usage": "ACE Inhibitor"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Cefadroxil",
+    "origin": "Lupin",
+    "country": "India",
+    "usage": "Antibiotik cefalosporin"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Cefuroxime Axetil Amorphous",
+    "origin": "Covalent Labs",
+    "country": "India",
+    "usage": "Antibiotik cefalosporin"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Cefuroxime Sodium",
+    "origin": "Shandong Luoxin",
+    "country": "China",
+    "usage": "Antibiotik cefalosporin"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Cetirizine di HCl",
+    "origin": "Vaikunth",
+    "country": "India",
+    "usage": "Antihistamin"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Chlopheniramine Maleate (CTM)",
+    "origin": "Supriya",
+    "country": "India",
+    "usage": "Antihistamin"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Chloramphenicol Base",
+    "origin": "Anuh, Wuhan",
+    "country": "India, China",
+    "usage": "Antibiotik"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Chloramphenicol Palmitate",
+    "origin": "Anuh",
+    "country": "India",
+    "usage": "Antibiotik"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Ciprofloxacin HCl",
+    "origin": "Anuh, Langhua",
+    "country": "India, China",
+    "usage": "Antibiotik quinolone"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Ciprofloxacin Lactate",
+    "origin": "Zhejiang Guobang",
+    "country": "China",
+    "usage": "Antibiotik quinolone"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Citicoline Sodium",
+    "origin": "Xinxiang Phama",
+    "country": "China",
+    "usage": "Neuro Vitamin"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Clindamycin HCl",
+    "origin": "Zhejiang Apeloa",
+    "country": "China",
+    "usage": "Antibiotik"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Clobetasol Propionate",
+    "origin": "Anuh Farma",
+    "country": "India",
+    "usage": "Kortikosteroid"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Colloidal Silicon Dioxide/Cab-O-Sil",
+    "origin": "Cabot, Anhui",
+    "country": "Germany, China",
+    "usage": "Anti caking"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Croscarmellose Sodium",
+    "origin": "Mingtai",
+    "country": "Taiwan",
+    "usage": "Excipient"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "D-Calcium Pantothenate",
+    "origin": "Hangzhou Xinfu",
+    "country": "China",
+    "usage": "Vitamin B5"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Desloratadine",
+    "origin": "Morepen",
+    "country": "India",
+    "usage": "Antihistamin"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Dexamethasone",
+    "origin": "Tianjin Tianyao",
+    "country": "China",
+    "usage": "Kortikosteroid"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Dexamethasone Sodium Phosphate",
+    "origin": "Tianjin Tianyao",
+    "country": "China",
+    "usage": "Kortikosteroid"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Dexchlorpheniramine Maleate (Dex-CTM)",
+    "origin": "Supriya/Halcyon",
+    "country": "India",
+    "usage": "Antihistamin"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Dexpanthenol",
+    "origin": "Hangzhou Lingeba",
+    "country": "China",
+    "usage": "Pro vitamin B5"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Dextromethorphan HBr",
+    "origin": "Oneiro",
+    "country": "India",
+    "usage": "Antitusif"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Diclofenac Diethylamine",
+    "origin": "Aarti",
+    "country": "India",
+    "usage": "Anti Inflamasi Non Steroid"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Diclofenac Potassium",
+    "origin": "Aarti, Dongtai",
+    "country": "India, China",
+    "usage": "Anti Inflamasi Non Steroid"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Diclofenac Sodium",
+    "origin": "Aarti, Dongtai",
+    "country": "India, China",
+    "usage": "Anti Inflamasi Non Steroid"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Dimenhydrinate",
+    "origin": "Shanghai Wonder",
+    "country": "China",
+    "usage": "Antihistamin"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Diphenhydramine HCl",
+    "origin": "Supriya",
+    "country": "India",
+    "usage": "Antagonis histamin-1"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Dl Alpha Tocopheryl Acetate",
+    "origin": "ZMC Keming",
+    "country": "China",
+    "usage": "Vitamin E"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Dobutamine HCl",
+    "origin": "Aragen",
+    "country": "India",
+    "usage": "Inotropik"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Domperidone Base",
+    "origin": "Vasudha",
+    "country": "India",
+    "usage": "Antagonis Dopamin"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Domperidone Maleate",
+    "origin": "Vasudha",
+    "country": "India",
+    "usage": "Antagonis Dopamin"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Eperisone Hydrochloride",
+    "origin": "SNA Health Care",
+    "country": "India",
+    "usage": "Antispasmodik"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Erythromycin Ethyl Succinate",
+    "origin": "Anuh Farma",
+    "country": "India",
+    "usage": "Antibotik makrolid"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Erythromycin Stearate",
+    "origin": "Anuh Farma",
+    "country": "India",
+    "usage": "Antibotik makrolid"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Etambutol",
+    "origin": "Lupin",
+    "country": "India",
+    "usage": "antibiotik"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Ferrous Fumarate",
+    "origin": "Shree Vardhan",
+    "country": "India",
+    "usage": "Anti Anemia"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Gabapentin",
+    "origin": "Zhejiang Chiral",
+    "country": "China",
+    "usage": "Antikonvulsan"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Griseofulvin",
+    "origin": "Inner Mongolia",
+    "country": "China",
+    "usage": "Antifungal"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Guaifenesin/Glyceryl Guaicolate",
+    "origin": "Gennex/Stellar",
+    "country": "India",
+    "usage": "Ekspektoran"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Hydrocortisone Acetate",
+    "origin": "Tianjin Tianfa, Henan Lihua",
+    "country": "China",
+    "usage": "Kortikosteroid"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Hyoscine Butyl Bromide",
+    "origin": "Alkaloids",
+    "country": "India",
+    "usage": "Antimuskarinik"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Ketoconazole",
+    "origin": "Aarti",
+    "country": "India",
+    "usage": "Antifungal"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Lactose Mono/Anhydrous Pharma grade",
+    "origin": "India LTD, Myabi",
+    "country": "India, Turkey",
+    "usage": "Excipient"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Levofloxacin Hemihydrate",
+    "origin": "Zhejiang Jingxin",
+    "country": "China",
+    "usage": "Antibiotik Fluoroquinolon"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Loperamide",
+    "origin": "Vasudha",
+    "country": "India",
+    "usage": "Anti diarhea"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Loratadine",
+    "origin": "Morepen",
+    "country": "India",
+    "usage": "Antihistamin"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Mecobalamin",
+    "origin": "Supriya",
+    "country": "India",
+    "usage": "Vitamin"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Mefenamic Acid",
+    "origin": "Shaanxi Baoxin",
+    "country": "China",
+    "usage": "Anti Inflamasi Non Steroid"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Metamizole Sodium (Analgin)",
+    "origin": "Hebei Jiheng",
+    "country": "China",
+    "usage": "Anti Inflamasi Non Steroid"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Methylprednisolone",
+    "origin": "Tianjin Tianyao",
+    "country": "China",
+    "usage": "Kortikosteroid"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Metronidazole",
+    "origin": "Hubei Hongyuan",
+    "country": "China",
+    "usage": "Antibiotik Nitromidazole"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Microcrystalline Cellulose 101",
+    "origin": "Mingtai",
+    "country": "Taiwan",
+    "usage": "Excipient"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Microcrystalline Cellulose 102",
+    "origin": "Mingtai",
+    "country": "Taiwan",
+    "usage": "Excipient"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Microcrystalline Cellulose 112",
+    "origin": "Mingtai",
+    "country": "Taiwan",
+    "usage": "Excipient"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Mometasone Furoate",
+    "origin": "Anuh",
+    "country": "India",
+    "usage": "Kortikosteroid"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Neomycin sulfate",
+    "origin": "Sanxia",
+    "country": "China",
+    "usage": "Antibiotik Aminoglikosida"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Nicotinamide",
+    "origin": "Brother, Western Drugs",
+    "country": "China, India",
+    "usage": "Vitamin B3"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Paracetamol",
+    "origin": "Anqiu Luan, Jiheng",
+    "country": "China",
+    "usage": "Antipiretik"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Phenylephrine HCl",
+    "origin": "Malladi",
+    "country": "India",
+    "usage": "Dekongestan"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Potassium Chloride",
+    "origin": "Rasino Herbs",
+    "country": "India",
+    "usage": "Hipokalemia"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Prednisone",
+    "origin": "Henan Lihua",
+    "country": "China",
+    "usage": "Antiinflammation"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Pyridoxine HCl",
+    "origin": "Brother, Tianxin",
+    "country": "China",
+    "usage": "Vitamin B6"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Ranitidine Form II",
+    "origin": "Orchev",
+    "country": "India",
+    "usage": "Anti Gerd"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Salbutamol Sulfate",
+    "origin": "Supriya",
+    "country": "India",
+    "usage": "Bronchodilator"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Sulfamethoxazole",
+    "origin": "Virchow",
+    "country": "India",
+    "usage": "Antibiotik"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Thiamine HCl",
+    "origin": "Jiangsu Brother",
+    "country": "China",
+    "usage": "Vitamin B2"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Thiamine Mononitrate",
+    "origin": "Jiangsu Brother",
+    "country": "China",
+    "usage": "Vitamin B1"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Trifluoperazine HCL",
+    "origin": "Vaikunth",
+    "country": "India",
+    "usage": "Antipsikotik"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Trihexyphenidyl HCl",
+    "origin": "Harika",
+    "country": "India",
+    "usage": "Antikolinergik"
+  },
+  {
+    "category": "API & Eksipien",
+    "name": "Trimethoprim",
+    "origin": "Shouguang Fukang",
+    "country": "China",
+    "usage": "Antibiotik"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Alpha Arbutin",
+    "origin": "Xi An Day Natural, Hubei Artec",
+    "country": "Cina",
+    "usage": "Brightening"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Bamboo Charcoal Powder",
+    "origin": "Linquan Spring River",
+    "country": "Cina",
+    "usage": "Brightening, Anti-aging"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Bakuchiol (Natural Retinol)",
+    "origin": "Kangcare Biotech",
+    "country": "Cina",
+    "usage": "Antibacterial, Antiacne, Antioxidant"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Benzalkonium Chloride 20%, 50%",
+    "origin": "Shree Vardhan",
+    "country": "India",
+    "usage": "Antimicrobial"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Benzethonium Chloride",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Antimicrobial"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Benzoic Acid, Benzyl Alcohol & Caprylyl Glycol",
+    "origin": "Wuhan Youji, Anmol, Surya Remedies",
+    "country": "Cina, India",
+    "usage": "Preservative"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Betamethasone Base",
+    "origin": "Zhejiang Xianju Xanle, Anuh, Zhejiang Rivita",
+    "country": "Cina, India",
+    "usage": "Antiinflamatory"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Betamethasone Dipropionate",
+    "origin": "Zhejiang Xianju Xanle, Anuh, Zhejiang Rivita",
+    "country": "Cina, India",
+    "usage": "Antiinflamatory"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Biotin",
+    "origin": "Zhejiang Shengda, Supreem",
+    "country": "Cina, India",
+    "usage": "Hair Growth Stimulans"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Bisoctrizole",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Sun UV Rays Protection"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Carrot root ferment filtrate",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Antioxidant, Brightening"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Coconut Oil + Onion Ferment Fitrate",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Antioxidant, Antiscar, Hair Growth"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Copper Pyrithione",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Anti-fouling Agent"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Cetyl Pyridinium Chloride",
+    "origin": "Chemstack",
+    "country": "Cina, India",
+    "usage": "Antibacterial"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Caprylhydroxamic Acid",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Preservative"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Caprylyl Glycol + Benzoic Acid + Triethyl Citrate",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Preservative"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Calcium Thioglycolate Trihydrate",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Hair Depilatory Active"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Ceramide",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Moisturizer"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Diethylexyl Butamido Triazone",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Sun Protection UV-A UV-B Filter"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Diamino Pyrimidine Oxide",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Hair Growth Stimulans"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Diamino Pyrimidine Oxide + Oxothiazolidinecarboxylate",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Hair Growth Stimulans"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Decyl Oleate",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Emollient & Lubricant"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Desoximethasone",
+    "origin": "Gonane Pharma",
+    "country": "India",
+    "usage": "Antiinflamatory"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "DL-Mandelic Acid",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Anti-aging"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Ethylhexyl Triazone",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Sun Protection UV-B Filter"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Econea",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Antimicrobial"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Ethylhexylglycerin",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Preservative Booster"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Ethylhexylglycerin + Caprylylglicol",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Preservative"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Ethylhexylglycerin + PE",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Preservative"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Ethylhexylglycerin + PG + Octenidine HCI",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Preservative"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Ginseng Extract Water Soluble",
+    "origin": "Hunan Huakang, Xi An Day Natural, Hongjiu Biotech",
+    "country": "Cina",
+    "usage": "Anti-aging"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Glyserin",
+    "origin": "PnG",
+    "country": "N/A",
+    "usage": "N/A"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Hydroquinone",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Brightening, Anti Blemish"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Isodecyl Oleate",
+    "origin": "Medilux Labs",
+    "country": "India",
+    "usage": "Emollient & Lubricant"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Isosorbide-2,5 Dithioglycolate",
+    "origin": "Shandong Keyuan",
+    "country": "Cina",
+    "usage": "Hair Depilatory Active"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Isotretinoin",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Anti-acne"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Keratin Powder",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Hair Growth Stimulans"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Lauryl Lactate",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Emollient & Moisturizer"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "L-[-]-2-Oxathiazo-lidine-4-carboxylic acid",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Anti-aging active water soluble"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Lauryl Lactyl Lactate",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Surfactan"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "L-Glutathione",
+    "origin": "Shandong Jincheng, Greendew Healthcare",
+    "country": "Cina, India",
+    "usage": "Anti-aging, Whitening Agent"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Litchi Peel Extract",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Antioxidant, Antimicrobial"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Minoxidil",
+    "origin": "Mehta Medicare, Olon",
+    "country": "India",
+    "usage": "Hair Growth Stimulans"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Minoxidil (Oxothiazolidinecarboxylate + Diamino Pyrimidine Oxide)",
+    "origin": "India",
+    "country": "India",
+    "usage": "Hair Growth Stimulans"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Menthol Crystal",
+    "origin": "Anhui",
+    "country": "Cina",
+    "usage": "N/A"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Methyl Paraben",
+    "origin": "Ueno, Innorex, Salycilates Chemicals",
+    "country": "Japan, Cina, India",
+    "usage": "Antimicrobial"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Minoxidil (Pyrimidine Diamine Oxide) USP/EP/IP",
+    "origin": "India",
+    "country": "India",
+    "usage": "Hair Growth Stimulans"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Minoxidil Sulphate",
+    "origin": "India",
+    "country": "India",
+    "usage": "Hair Growth Stimulans"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Myristyl Myristate",
+    "origin": "Malaysia",
+    "country": "Malaysia",
+    "usage": "Emollient & Opacifier"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Mupirocin",
+    "origin": "Zhejiang Rivita, Chengdu Yinuo, Concord Biotech",
+    "country": "Cina, India",
+    "usage": "Antibacterial"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Magnolol",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Antioxidant, Antimicrobial"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "n-Butyl Resorcinol",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Brightening, Anti Blemish"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Parafin Liquid",
+    "origin": "Pionier",
+    "country": "Germany",
+    "usage": "N/A"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Peppermint oil",
+    "origin": "Shanghai Polar Bear",
+    "country": "Cina",
+    "usage": "N/A"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Phenylbenzimidazole Sulphonic Acid",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Sun Protection UV-B Filter"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Pyrrolidinyl Diaminopyrimidine Oxide",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Hair Growth Stimulans"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Pyrrolidinyl Diaminopyrimidine Oxide Oxothiazolidinecarboxylate",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Hair Growth Stimulans"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Precipitated Silica",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Cleaning Agent, Polishing Agent, Thickening Silica"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "PCMX or Chloroxylenol",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Antibacterial"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Pine Oil 50%",
+    "origin": "Wuzhou Oasis",
+    "country": "Cina",
+    "usage": "Antibacterial"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Piroctone Olamine + PE",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Preservative / Fungicide"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Potassium Thioglycolate",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Hair Depilatory Active"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Pullulan",
+    "origin": "Nagase",
+    "country": "Japan",
+    "usage": "Moisturizer"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Radish Root Ferment Filtrate",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Antioxidant, Skin Radiance"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Rice Ferment Filtrate",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Antioxidant, Hair Conditioning"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Retinol",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Anti Wrinkle"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Soya Bean Ferment Filtrate",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Antioxidant, Anti-aging"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Sodium Bisulphate",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Antioxidant, Antimicrobial"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Sodium Pyrithionine 40% FPS",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Antimicrobial"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Sodium Lactate 50%",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Emollient & Humectan"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Sodium Lauryl Lactylacte",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Surfactant"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Sodium Lauryl Sulfate",
+    "origin": "Cina",
+    "country": "Cina",
+    "usage": "Surfactant"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Talc Osmanthus",
+    "origin": "Quangxi Longguang",
+    "country": "Cina",
+    "usage": "N/A"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Triclosan",
+    "origin": "Salicylates Chemicals, Cina",
+    "country": "India, Cina",
+    "usage": "Antibacterial"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Tretinoin",
+    "origin": "Srikem, Chongqing Huapont",
+    "country": "India, Cina",
+    "usage": "Anti Wrinkle"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Vaseline Alba",
+    "origin": "Pionier",
+    "country": "Germany",
+    "usage": "N/A"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Vaseline Flava",
+    "origin": "Pionier",
+    "country": "Germany",
+    "usage": "N/A"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Vitamin B3 (Nicotinamide)",
+    "origin": "Western Drugs",
+    "country": "India",
+    "usage": "UV Protection"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Vitamin E",
+    "origin": "ZMC",
+    "country": "Cina",
+    "usage": "Antioxidant"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Zinc Citrate Trihydrate",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Antibacterial"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Zinc Lactate Trihydrate",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Antibacterial"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Zinc Pyrithione 40% FPS",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Anti-fungal Agent"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Zinc Pyrithione 50% FPS + Phenoxyethanol",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Preservative, Anti-dandruff"
+  },
+  {
+    "category": "Cosmetic Ingredient",
+    "name": "Zinc Pyrithione Powder",
+    "origin": "Cina, India",
+    "country": "Cina, India",
+    "usage": "Anti-fungal Agent"
+  },
+  {
+    "category": "Veterinary",
+    "name": "Albendazole",
+    "origin": "Hubei Zhongjia, Wuhan Lipharma",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Amoxicillin Trihydrate Powder",
+    "origin": "Inner Mongolia, Shanxi Shuangyan",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Ampicilin Trihydrate Powder",
+    "origin": "Inner Mongolia Changsheng",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Ascorbic Acid Coated",
+    "origin": "Yixing Jiangshan, CSPC",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Ascorbic Acid Uncoated",
+    "origin": "CSPC Weisheng",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Benzalkonium Chloride 50%",
+    "origin": "Shree Vardhan",
+    "country": "India",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Benzalkonium Chloride 20%",
+    "origin": "Shree Vardhan",
+    "country": "India",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Colloidal Silicon Dioxide",
+    "origin": "Cabot",
+    "country": "Germany",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Chlorpheniramine Maleate",
+    "origin": "Supriya",
+    "country": "India",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Choline Chloride 60%",
+    "origin": "Shandong Yinfeng/FY Feed, Aollen Biotech",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Ciprofloxacin HCL",
+    "origin": "Guobang, Langhua, Aarti",
+    "country": "China, India",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Cyromazine 10%",
+    "origin": "Arshine",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "D-Calcium Pantothenate",
+    "origin": "Hangzhou Xinfu, Brother",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Dextrose Anhydrous",
+    "origin": "Shandong Xiwang",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Dextrose Moho hydrate",
+    "origin": "Fufeng",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Diclazuril",
+    "origin": "Arshine",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Diphenhydramine HCl",
+    "origin": "Supriya",
+    "country": "India",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Doxycycline Hyclate",
+    "origin": "Qingdao API Herb, Arshine",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Enrofloxacin Base",
+    "origin": "Zhejiang Guobang, Jingxin",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Enrofloxacin HCL",
+    "origin": "Zhejiang Guobang, Jingxin",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Erythromycin Thiocynate",
+    "origin": "Wuhan Lipharma",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Ferrous Fumarate",
+    "origin": "Shree Vardhan",
+    "country": "India",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Ferrous Sulfate",
+    "origin": "Shree Vardhan",
+    "country": "India",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Lactose Mesh 200",
+    "origin": "Grande",
+    "country": "USA",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Levamisole Hydrochloride",
+    "origin": "Nanjing White Whale, Shanghai Fa",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Levofloxacin HCL",
+    "origin": "Shangyu Jingxin",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Magnesium Stearate",
+    "origin": "FACI",
+    "country": "Singapore",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Magnesium Stearate (Ligamed)",
+    "origin": "Peter Graven",
+    "country": "Germany",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Magnesium Stearate",
+    "origin": "Nitika",
+    "country": "India",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Meloxicam",
+    "origin": "Heer Pharma, Swati",
+    "country": "India",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Methyl Paraben (Nipagin)",
+    "origin": "Ueno",
+    "country": "Japan",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Microcystalline Cellulose",
+    "origin": "Mingtai",
+    "country": "Taiwan",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Microcystalline Cellulose",
+    "origin": "Nitika",
+    "country": "India",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Mineral Oil (White Oil)",
+    "origin": "Taidas",
+    "country": "Thailand",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Neomycin Sulfate",
+    "origin": "Lifecome Biochemistry",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Niacin",
+    "origin": "Jiangxi Brother",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Niacin Powder",
+    "origin": "Western Drug",
+    "country": "India",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Niclosamide Anhydrous",
+    "origin": "Nantong Luosen, Shanghai Fa, Toyuan",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Norfloxacin",
+    "origin": "Henan Kangwei",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Oxytetracycline HCl",
+    "origin": "Yancheng Dafeng",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Paracetamol Powder",
+    "origin": "Hebei Jiheng, Anqiuluan",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Piperazine Citrate",
+    "origin": "Adani, Amphray, Vishal",
+    "country": "India",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Povidone Iodine",
+    "origin": "Shree Vardhan, Eskay, Shanghai Yuking,",
+    "country": "India",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Propyl Paraben (Nipasol)",
+    "origin": "Ueno",
+    "country": "Japan",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Propylene Glycol",
+    "origin": "Nanjing Well",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Pyridoxine HCL",
+    "origin": "Jiangxi Tianxin",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Riboflavin",
+    "origin": "Hubei Guangji",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Riboflavin 80% SD",
+    "origin": "Hubei Guangji",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Sulfadiazine",
+    "origin": "Shanghai Fa, Wuhan Lipharma",
+    "country": "",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Talc Osmanthus",
+    "origin": "",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Thiamine Mononitrate",
+    "origin": "Jiangxi Tianxin",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Toltrazurile",
+    "origin": "Wuhan Lipharma, Beijing XIngke, Toyuan",
+    "country": "",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Trimethoprim",
+    "origin": "Shouguang Fukang/Virchow",
+    "country": "China/India",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Tylosin Tartrate",
+    "origin": "Wuhan Lipharma",
+    "country": "China",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Vaseline Alba",
+    "origin": "H&R Tudapetrol",
+    "country": "Germany",
+    "usage": ""
+  },
+  {
+    "category": "Veterinary",
+    "name": "Vitamin E 50% CWS",
+    "origin": "ZMC",
+    "country": "China",
+    "usage": ""
+  }
+]

@@ -1,0 +1,237 @@
+[
+  {
+    "id": 1,
+    "principals": "Aarambh Life Science",
+    "country": "India"
+  },
+  {
+    "id": 2,
+    "principals": "Aarti Drugs",
+    "country": "India"
+  },
+  {
+    "id": 3,
+    "principals": "Aalidhra Pharmachem",
+    "country": "India"
+  },
+  {
+    "id": 4,
+    "principals": "Aarti Pharmalab",
+    "country": "India"
+  },
+  {
+    "id": 5,
+    "principals": "Alembic",
+    "country": "India"
+  },
+  {
+    "id": 6,
+    "principals": "Alkaloids",
+    "country": "India"
+  },
+  {
+    "id": 7,
+    "principals": "Amgis Lifescience",
+    "country": "India"
+  },
+  {
+    "id": 8,
+    "principals": "Anuh Pharma",
+    "country": "India"
+  },
+  {
+    "id": 9,
+    "principals": "Apex Pharma",
+    "country": "India"
+  },
+  {
+    "id": 10,
+    "principals": "Basil Drugs and Pharmaceuticals",
+    "country": "India"
+  },
+  {
+    "id": 11,
+    "principals": "Cadchem",
+    "country": "India"
+  },
+  {
+    "id": 12,
+    "principals": "FRChem",
+    "country": "India"
+  },
+  {
+    "id": 13,
+    "principals": "Haleos Labs",
+    "country": "India"
+  },
+  {
+    "id": 14,
+    "principals": "Halcyon",
+    "country": "India"
+  },
+  {
+    "id": 15,
+    "principals": "Harikadrugs",
+    "country": "India"
+  },
+  {
+    "id": 16,
+    "principals": "Kekule Pharma Limited",
+    "country": "India"
+  },
+  {
+    "id": 17,
+    "principals": "Kumar Organics",
+    "country": "India"
+  },
+  {
+    "id": 18,
+    "principals": "LA Chandra",
+    "country": "India"
+  },
+  {
+    "id": 19,
+    "principals": "Mehta",
+    "country": "India"
+  },
+  {
+    "id": 20,
+    "principals": "Morepen",
+    "country": "India"
+  },
+  {
+    "id": 21,
+    "principals": "Nilkanth",
+    "country": "India"
+  },
+  {
+    "id": 22,
+    "principals": "Oneiro",
+    "country": "India"
+  },
+  {
+    "id": 23,
+    "principals": "Orchev",
+    "country": "India"
+  },
+  {
+    "id": 24,
+    "principals": "Orex",
+    "country": "India"
+  },
+  {
+    "id": 25,
+    "principals": "Prachem Laboratories",
+    "country": "India"
+  },
+  {
+    "id": 26,
+    "principals": "Prudence",
+    "country": "India"
+  },
+  {
+    "id": 27,
+    "principals": "Raj Pioneer",
+    "country": "India"
+  },
+  {
+    "id": 28,
+    "principals": "Saraca",
+    "country": "India"
+  },
+  {
+    "id": 29,
+    "principals": "Shree Vardan",
+    "country": "India"
+  },
+  {
+    "id": 30,
+    "principals": "SNA Healthcare",
+    "country": "India"
+  },
+  {
+    "id": 31,
+    "principals": "Sunil",
+    "country": "India"
+  },
+  {
+    "id": 32,
+    "principals": "Spansules",
+    "country": "India"
+  },
+  {
+    "id": 33,
+    "principals": "Supriya",
+    "country": "India"
+  },
+  {
+    "id": 34,
+    "principals": "Vaikunth",
+    "country": "India"
+  },
+  {
+    "id": 35,
+    "principals": "Vasudha",
+    "country": "India"
+  },
+  {
+    "id": 36,
+    "principals": "Vasundhara",
+    "country": "India"
+  },
+  {
+    "id": 37,
+    "principals": "Changzhou Yinsheng",
+    "country": "China"
+  },
+  {
+    "id": 38,
+    "principals": "Henan Lihua",
+    "country": "China"
+  },
+  {
+    "id": 39,
+    "principals": "Huazhong",
+    "country": "China"
+  },
+  {
+    "id": 40,
+    "principals": "Hubei Hongyuan",
+    "country": "China"
+  },
+  {
+    "id": 41,
+    "principals": "Shaanxi Shuang Yan",
+    "country": "China"
+  },
+  {
+    "id": 42,
+    "principals": "Uni-Capsule",
+    "country": "China"
+  },
+  {
+    "id": 43,
+    "principals": "Yichang Sanxia",
+    "country": "China"
+  },
+  {
+    "id": 44,
+    "principals": "Zhejiang Ausun",
+    "country": "China"
+  },
+  {
+    "id": 45,
+    "principals": "Zhejiang Guobang",
+    "country": "China"
+  },
+  {
+    "id": 46,
+    "principals": "Zhejiang Haisen",
+    "country": "China"
+  },
+  {
+    "id": 47,
+    "principals": "Zhejiang Medicine",
+    "country": "China"
+  }
+]
