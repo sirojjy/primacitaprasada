@@ -4,7 +4,9 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Prima Cita Prasada - Products</title>
+    <title data-id="Prima Cita Prasada - Bahan Baku Farmasi Terpercaya" 
+    data-en="Prima Cita Prasada - Trusted Pharmaceutical Raw Materials"
+    >Prima Cita Prasada - Bahan Baku Farmasi Terpercaya</title>
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="images/icon.png" />
     <!-- Bootstrap core CSS -->
@@ -30,7 +32,10 @@
         <div class="container">
           <div class="top-info d-flex justify-content-between align-items-center">
             <ul class="t-address">
-              <li class="pr-2"><i class="far fa-clock"></i> Jam Kerja: Senin - Jumat 08.00 - 17.00</li>
+              <li class="pr-2"><i class="far fa-clock"></i
+                data-id="Jam Kerja: Senin - Jumat 08.00 - 17.00"
+                data-en="Working Hours: Monday - Friday 08.00 - 17.00"
+                > Jam Kerja: Senin - Jumat 08.00 - 17.00</li>
               <li class="pr-2"><i class="fas fa-phone-alt"></i> +62 21 35294362</li>
               <li><i class="far fa-envelope"></i>register@primacitaprasada.com</li>
             </ul>
@@ -82,7 +87,9 @@
     <!-- Breadcrumb start -->
     <section class="breadcrumb-wrap">
       <div class="container">
-        <h2 class="cl-white mb-0">Produk Kami</h2>
+        <h2 class="cl-white mb-0"
+        data-id="Produk Kami"
+        data-en="Our Product">Produk Kami</h2>
       </div>
       <div class="overlay"></div>
     </section>
@@ -93,7 +100,7 @@
       <div class="container">
         <div class="row mb-4 text-center">
           <div class="col-12">
-            <h4 class="text-success fw-bold">Katalog Bahan Baku</h4>
+            <h4 class="text-success fw-bold" data-id="Katalog Bahan Baku" data-en="Material Catalog">Katalog Bahan Baku</h4>
             <h2 class="fw-bold">PT Prima Cita Prasada</h2>
             <hr class="mx-auto bg-success" style="width: 80px; height: 3px;">
           </div>
@@ -102,25 +109,25 @@
         <div class="bg-white p-4 shadow-sm rounded-4">
           <div class="row g-3 mb-4">
             <div class="col-md-1">
-              <label class="form-label fw-semibold">Tampilkan</label>
+              <label class="form-label fw-semibold" data-id="Tampilkan" data-en="Show">Tampilkan</label>
               <select id="rowsPerPageFilter" class="form-select" onchange="handleRowsPerPage()">
                 <option value="10">10</option>
                 <option value="50">50</option>
                 <option value="100">100</option>
-                <option value="all">Semua</option>
+                <option value="all" data-id="Semua" data-en="All">Semua</option>
               </select>
             </div>
             <div class="col-md-4">
-              <label class="form-label fw-semibold">Cari Bahan Baku</label>
+              <label class="form-label fw-semibold" data-id="Cari Bahan Baku" data-en="Find Material">Cari Bahan Baku</label>
               <input type="text" id="searchInput" class="form-control" placeholder="Ketik nama produk...">
             </div>
             <div class="col-md-4">
               <label class="form-label fw-semibold">Filter Kategori</label>
               <select id="categoryFilter" class="form-select">
-                <option value="all">Semua Kategori</option>
-                <option value="API & Eksipien">API & Eksipien</option>
-                <option value="Cosmetic Ingredient">Cosmetic Ingredient</option>
-                <option value="Veterinary">Veterinary</option>
+                <option value="all" data-id="Semua Kategori" data-en="All Categories">Semua Kategori</option>
+                <option value="API & Eksipien" data-id="API & Eksipien" data-en="API & Excipients">API & Eksipien</option>
+                <option value="Cosmetic Ingredient" data-id="Bahan Kosmetik" data-en="Cosmetic Ingredient">Bahan Kosmetik</option>
+                <option value="Veterinary" data-id="Veteriner" data-en="Veterinary">Veteriner</option>
               </select>
             </div>
             <div class="col-md-3 d-flex align-items-end">
@@ -133,11 +140,11 @@
             <table class="table table-hover align-middle border">
               <thead class="table-primary">
                 <tr>
-                  <th style="width: 15%;">Kategori</th>
-                  <th style="width: 25%;">Nama Produk</th>
-                  <th style="width: 20%;">Origin</th>
-                  <th style="width: 15%;">Negara</th>
-                  <th style="width: 25%;">Usage</th>
+                  <th style="width: 15%;" data-id="Kategori" data-en="Category">Kategori</th>
+                  <th style="width: 25%;" data-id="Nama Produk" data-en="Product Name">Nama Produk</th>
+                  <th style="width: 20%;" data-id="Origin" data-en="Origin">Origin</th>
+                  <th style="width: 15%;" data-id="Negara" data-en="Country">Negara</th>
+                  <th style="width: 25%;" data-id="Penggunaan" data-en="Usage">Penggunaan</th>
                 </tr>
               </thead>
               <tbody id="tableBody">
@@ -149,7 +156,7 @@
               </ul>
           </nav>
           <div id="noData" class="text-center py-4 d-none">
-            <p class="text-muted">Produk tidak ditemukan.</p>
+            <p class="text-muted" data-id="Produk tidak ditemukan." data-en="Product not found.">Produk tidak ditemukan.</p>
           </div>
         </div>
       </div>
@@ -166,7 +173,9 @@
                 <img src="images/home/logo1.png" alt="logo" class="" />
                 <br>
                 <h4 class="cl-green">Prima Cita Prasada</h4>
-                <p class="mt-3 mb-3">
+                <p class="mt-3 mb-3" 
+                  data-id="Komplek Pergudangan Bizhub Serpong Blok GB No 01, Jl. Raya Serpong No. 99 RT. 001 RW 007, Kel. Pabuaran, Kec. Gunung Sindur, Kab. Bogor, Jawa Barat." 
+                  data-en="Komplek Pergudangan Bizhub Serpong Blok GB No 01, Jl. Raya Serpong No. 99 RT. 001 RW 007, Kel. Pabuaran, Kec. Gunung Sindur, Kab. Bogor, Jawa Barat.">
                   Komplek Pergudangan Bizhub Serpong Blok GB No 01, Jl. Raya Serpong No. 99 RT. 001 RW 007, Kel. Pabuaran, Kec. Gunung Sindur, Kab. Bogor, Jawa Barat.  
                 </p>
               </div>
@@ -187,12 +196,12 @@
 
             <div class="col-lg-4 col-md-6">
               <div class="ft-lists">
-                <h3 class="cl-white">Hubungi kami sekarang</h3>
+                <h3 class="cl-white" data-id="Hubungi kami sekarang" data-en="Contact us now">Hubungi kami sekarang</h3>
                 <p class="cl-white">
                   +62 21 35294362
                 </p>
                 <div class="form-group">
-                  <a href="tel:+622135294362" class="btn">Dapatkan Penawaran</a>
+                  <a href="tel:+622135294362" class="btn" data-id="Dapatkan Penawaran" data-en="Get Offer">Dapatkan Penawaran</a>
                   <!-- <button class="btn w-100 mt-1">Dapatkan Penawaran </button> -->
                 </div>
               </div>
@@ -245,6 +254,42 @@
     <script src="js/main.js"></script>
     <script src="js/custom-swiper.js"></script>
     <script src="js/custom-nav.js"></script>
+
+    <!-- Change Language -->
+    <Script>
+      function changeLanguage(lang) {
+          // Simpan preferensi ke LocalStorage
+          localStorage.setItem('preferredLang', lang);
+
+          // Ambil semua elemen dengan atribut data-id atau data-en
+          const elements = document.querySelectorAll('[data-id]');
+          elements.forEach(el => {
+              el.innerText = (lang === 'en') ? el.getAttribute('data-en') : el.getAttribute('data-id');
+          });
+
+          // LOGIKA WARNA TEKS
+          const langId = document.getElementById('lang-id');
+          const langEn = document.getElementById('lang-en');
+
+          if (lang === 'en') {
+              // EN Jadi Hijau, ID Jadi Hitam
+              langEn.classList.add('text-success', 'font-weight-bold');
+              langEn.classList.remove('text-dark');
+              
+              langId.classList.add('text-dark');
+              langId.classList.remove('text-success', 'font-weight-bold');
+          } else {
+              // ID Jadi Hijau, EN Jadi Hitam
+              langId.classList.add('text-success', 'font-weight-bold');
+              langId.classList.remove('text-dark');
+              
+              langEn.classList.add('text-dark');
+              langEn.classList.remove('text-success', 'font-weight-bold');
+          }
+      }
+    </Script>
+
+    <!-- Change Language End-->
 
     
     <!-- Tabel Produk -->
