@@ -4,9 +4,11 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title data-id="Prima Cita Prasada - Bahan Baku Farmasi Terpercaya" 
-    data-en="Prima Cita Prasada - Trusted Pharmaceutical Raw Materials"
-    >Prima Cita Prasada - Bahan Baku Farmasi Terpercaya</title>
+    <title id="site-title" 
+      data-id="Prima Cita Prasada - Bahan Baku Farmasi Terpercaya" 
+      data-en="Prima Cita Prasada - Trusted Pharmaceutical Raw Materials">
+      Prima Cita Prasada - Trusted Pharmaceutical Raw Materials
+    </title>
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="images/icon.png" />
     <!-- Bootstrap core CSS -->
@@ -35,7 +37,7 @@
               <li class="pr-2"><i class="far fa-clock"></i
                 data-id="Jam Kerja: Senin - Jumat 08.00 - 17.00"
                 data-en="Working Hours: Monday - Friday 08.00 - 17.00"
-                > Jam Kerja: Senin - Jumat 08.00 - 17.00</li>
+                >Working Hours: Monday - Friday 08.00 - 17.00</li>
               <li class="pr-2"><i class="fas fa-phone-alt"></i> +62 21 35294362</li>
               <li><i class="far fa-envelope"></i>register@primacitaprasada.com</li>
             </ul>
@@ -528,35 +530,48 @@
     <!-- Change Language -->
     <Script>
       function changeLanguage(lang) {
-          // Simpan preferensi ke LocalStorage
+          // 1. Simpan preferensi ke LocalStorage agar tetap EN saat reload
           localStorage.setItem('preferredLang', lang);
 
-          // Ambil semua elemen dengan atribut data-id atau data-en
+          // 2. Update Judul Halaman (Title Tag)
+          const siteTitle = document.getElementById('site-title');
+          if (siteTitle) {
+              document.title = (lang === 'en') ? siteTitle.getAttribute('data-en') : siteTitle.getAttribute('data-id');
+          }
+
+          // 3. Ambil semua elemen dengan atribut data-id dan data-en
           const elements = document.querySelectorAll('[data-id]');
           elements.forEach(el => {
-              el.innerText = (lang === 'en') ? el.getAttribute('data-en') : el.getAttribute('data-id');
+              // Cek jika elemen memiliki placeholder (untuk input search)
+              if (el.tagName === 'INPUT' && el.hasAttribute('placeholder')) {
+                  el.placeholder = (lang === 'en') ? el.getAttribute('data-en') : el.getAttribute('data-id');
+              } else {
+                  el.innerText = (lang === 'en') ? el.getAttribute('data-en') : el.getAttribute('data-id');
+              }
           });
 
-          // LOGIKA WARNA TEKS
+          // 4. LOGIKA WARNA TEKS SWITCHER
           const langId = document.getElementById('lang-id');
           const langEn = document.getElementById('lang-en');
 
           if (lang === 'en') {
-              // EN Jadi Hijau, ID Jadi Hitam
               langEn.classList.add('text-success', 'font-weight-bold');
               langEn.classList.remove('text-dark');
-              
               langId.classList.add('text-dark');
               langId.classList.remove('text-success', 'font-weight-bold');
           } else {
-              // ID Jadi Hijau, EN Jadi Hitam
               langId.classList.add('text-success', 'font-weight-bold');
               langId.classList.remove('text-dark');
-              
               langEn.classList.add('text-dark');
               langEn.classList.remove('text-success', 'font-weight-bold');
           }
       }
+
+      // 5. EKSEKUSI SAAT RELOAD: Cek bahasa terakhir yang disimpan
+      document.addEventListener('DOMContentLoaded', () => {
+          const savedLang = localStorage.getItem('preferredLang') || 'id'; // Default ID
+          changeLanguage(savedLang);
+      });
     </Script>
 
     <!-- Change Language End-->
